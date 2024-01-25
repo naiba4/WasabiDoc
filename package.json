@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@vue/component-compiler-utils": "^3.3.0",
-    "@vuepress/shared-utils": "^1.9.7",
+    "@vuepress/shared-utils": "^1.9.10",
     "ansi-regex": "^6.0.1",
     "follow-redirects": "^1.15.4",
     "glob-parent": "^6.0.2",
